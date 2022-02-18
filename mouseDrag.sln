@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mouseDrag", "mouseDrag\mouseDrag.csproj", "{6E2BF3B6-3144-439A-B3E5-F2E68916E289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E2BF3B6-3144-439A-B3E5-F2E68916E289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E2BF3B6-3144-439A-B3E5-F2E68916E289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E2BF3B6-3144-439A-B3E5-F2E68916E289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E2BF3B6-3144-439A-B3E5-F2E68916E289}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA27B5CC-755C-4D44-B2AA-50EBBE9998B8}
+	EndGlobalSection
+EndGlobal
